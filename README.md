@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on an extension for microsoft word that would allow users to correct/edit their papers based on its context. I am also working on restoring an old application that does not exist anymore for 32-bit systems to modern 64-bit devices.<br>
-👯 I’m looking to collaborate on anything.<br>
+🔭 I’m currently working on an extension for microsoft word that would allow users to correct/edit their papers based on its context. I am also working on restoring an old application from 32-bit systems to support modern 64-bit devices.<br>
 🤝 I’m looking for help with getting a dedicated server running even if I have to self-host it, without it getting breached.<br>
-🌱 I’m currently learning on system hardening.<br>
+🌱 I’m currently learning on system hardening for the server to go public... but its concerning with all the bot and agents roaming the internet!<br>
 💬 Ask me about my projects, I actually enjoyed the process and the problems I have encountered.<br>
 ⚡ Fun fact, I graduated with high honors! It's still not enough though.
 
